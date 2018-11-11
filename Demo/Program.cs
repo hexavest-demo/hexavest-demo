@@ -6,7 +6,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Bonjour Hexavest!");
             Console.ReadLine();
         }
     }
